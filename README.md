@@ -1,1 +1,1 @@
-## The project Notes App (Back-End) Dicoding course.
+## The project Notes App (Back-End) Dicoding course. 🐢
